@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="435" height="555" frameX="0" frameY="-21" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0001" x="446" y="0" width="434" height="556" frameX="-1" frameY="-20" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0002" x="891" y="0" width="433" height="557" frameX="-2" frameY="-19" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0003" x="1335" y="0" width="432" height="558" frameX="-4" frameY="-18" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0004" x="1778" y="0" width="430" height="561" frameX="-8" frameY="-15" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0005" x="2219" y="0" width="418" height="571" frameX="-23" frameY="-5" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0006" x="2648" y="0" width="415" height="573" frameX="-27" frameY="-3" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0007" x="3074" y="0" width="413" height="575" frameX="-30" frameY="-1" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0008" x="3498" y="0" width="412" height="576" frameX="-31" frameY="0" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="idle0009" x="0" y="587" width="412" height="576" frameX="-31" frameY="0" frameWidth="443" frameHeight="576"/>
+	<SubTexture name="singDOWN0000" x="423" y="587" width="416" height="547" frameX="-14" frameY="-25" frameWidth="430" frameHeight="572"/>
+	<SubTexture name="singDOWN0001" x="850" y="587" width="416" height="548" frameX="-14" frameY="-24" frameWidth="430" frameHeight="572"/>
+	<SubTexture name="singDOWN0002" x="1277" y="587" width="423" height="560" frameX="-7" frameY="-12" frameWidth="430" frameHeight="572"/>
+	<SubTexture name="singDOWN0003" x="1711" y="587" width="428" height="571" frameX="-1" frameY="-1" frameWidth="430" frameHeight="572"/>
+	<SubTexture name="singDOWN0004" x="2150" y="587" width="429" height="572" frameX="0" frameY="0" frameWidth="430" frameHeight="572"/>
+	<SubTexture name="singLEFT0000" x="2590" y="587" width="434" height="572" frameX="0" frameY="0" frameWidth="458" frameHeight="572"/>
+	<SubTexture name="singLEFT0001" x="3035" y="587" width="434" height="572" frameX="-1" frameY="0" frameWidth="458" frameHeight="572"/>
+	<SubTexture name="singLEFT0002" x="3480" y="587" width="431" height="572" frameX="-15" frameY="0" frameWidth="458" frameHeight="572"/>
+	<SubTexture name="singLEFT0003" x="0" y="1174" width="429" height="572" frameX="-28" frameY="0" frameWidth="458" frameHeight="572"/>
+	<SubTexture name="singLEFT0004" x="440" y="1174" width="429" height="572" frameX="-29" frameY="0" frameWidth="458" frameHeight="572"/>
+	<SubTexture name="singRIGHT0000" x="880" y="1174" width="436" height="572"/>
+	<SubTexture name="singRIGHT0001" x="1327" y="1174" width="436" height="572"/>
+	<SubTexture name="singRIGHT0002" x="1774" y="1174" width="433" height="572" frameX="-2" frameY="0" frameWidth="436" frameHeight="572"/>
+	<SubTexture name="singRIGHT0003" x="2218" y="1174" width="429" height="572" frameX="-5" frameY="0" frameWidth="436" frameHeight="572"/>
+	<SubTexture name="singRIGHT0004" x="2658" y="1174" width="429" height="572" frameX="-5" frameY="0" frameWidth="436" frameHeight="572"/>
+	<SubTexture name="singUP0000" x="3098" y="1174" width="454" height="597"/>
+	<SubTexture name="singUP0001" x="3563" y="1174" width="453" height="596" frameX="-1" frameY="-1" frameWidth="454" frameHeight="597"/>
+	<SubTexture name="singUP0002" x="0" y="1782" width="442" height="585" frameX="-12" frameY="-12" frameWidth="454" frameHeight="597"/>
+	<SubTexture name="singUP0003" x="453" y="1782" width="429" height="573" frameX="-24" frameY="-24" frameWidth="454" frameHeight="597"/>
+	<SubTexture name="singUP0004" x="893" y="1782" width="429" height="572" frameX="-24" frameY="-25" frameWidth="454" frameHeight="597"/>
+</TextureAtlas>

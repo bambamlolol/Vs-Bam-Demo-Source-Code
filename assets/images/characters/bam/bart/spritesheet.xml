@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bart0000" x="0" y="0" width="105" height="256" frameX="-134" frameY="-50" frameWidth="239" frameHeight="306"/>
+	<SubTexture name="bart0001" x="116" y="0" width="239" height="306"/>
+</TextureAtlas>

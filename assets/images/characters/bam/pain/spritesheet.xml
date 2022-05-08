@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lebaldi0000" x="0" y="0" width="251" height="260" frameX="-1" frameY="-7" frameWidth="252" frameHeight="267"/>
+	<SubTexture name="lebaldi0001" x="262" y="0" width="252" height="267"/>
+</TextureAtlas>

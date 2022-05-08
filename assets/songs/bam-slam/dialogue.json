@@ -1,0 +1,46 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "beep"
+        },
+        {
+            "portrait": "bam",
+            "expression": "normal",
+            "text": "holy shit boyrfriend fnf!111"
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "deez"
+        },
+        {
+            "portrait": "bam",
+            "expression": "normal",
+            "text": "what?"
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "nuts"
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "LMAO!1111"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "whys this dialouge so shit"
+        },
+        {
+            "portrait": "bam",
+            "expression": "normal",
+            "text": "cause this text is placeholder"
+        }
+    ]
+}
